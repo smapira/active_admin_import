@@ -18,4 +18,6 @@ group :test do
   gem 'capybara'
   gem 'poltergeist'
   gem 'jquery-ui-rails', '~> 5.0'
+  gem 'loofah', '~>2.19.1'
+  gem 'listen'
 end
